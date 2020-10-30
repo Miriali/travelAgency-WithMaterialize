@@ -1,9 +1,11 @@
 ## Responsive Travel Agency Website :earth_americas: :open_file_folder:
 Hello github´s friends! :octocat: 
+
 In this repository you will find the code and images for the development of the website of a travel agency, its design is adaptable, simple and attractive for which I made use of Materialize, a very good and easy-to-use Css framework. Hope you find it useful and Happy Coding. :nerd_face:
 
 ### Requirements
 Basic knowledge of:
+
 :round_pushpin: Html   
 :round_pushpin: Css  
 :round_pushpin: Materialize and  
